@@ -2,13 +2,13 @@
 Welcome to the drag race simulator!
 This Java project simulates a drag race. It was created as a final project in the Object Oriented Programming class at Embry-Riddle Daytona Beach.
 
-Overview
+Overview: 
 The project allows users to create two vehicles and then race them against each other. The vehicles can be created from scratch or imported from a spreadsheet. Once the vehicles are created, the program will start a 3-second countdown and then simulate the race. The program will display the 60-foot time, 1/8th mile time, 1/4th mile time, and 1/4th + 1/8th mile speed for both vehicles. The program will also create a file with a winning ticket, displaying the winning vehicles name and times/speeds.
 
-Purpose
+Purpose: 
 The project was created to generally predict how two vehicles may perform against eachother based on their specifications.Its secondary use is to predict how modifications that change those specifications, such as reducing weight or adding power, may affect the speed of the vehicles. It does not account for driver skill/error, and has no interaction after the inital values are entered other than printing the times/speeds of the vehicles.
 
-Instructions
+Instructions: 
 To use the project, you will need to:
 
 Install Java.
@@ -16,7 +16,7 @@ Download the project files.
 Open the project in an IDE.
 Run the project.
 
-Features
+Features: 
 The project includes the following features:
 
 Create two vehicles.
@@ -25,7 +25,7 @@ Race the vehicles against each other.
 View the 60-foot time, 1/8th mile time, 1/4th mile time, and 1/4th + 1/8th mile speed for both vehicles.
 Create a winning ticket.
 
-Limitations
+Limitations: 
 The project has the following limitations:
 
 The vehicles are not physically simulated.
@@ -33,7 +33,7 @@ Driver error/skill is not simulated.
 The project does not take into account factors such as wind resistance and traction.
 The project is not 100% accurate.
 
-Future
+Future: 
 This project will probably not be updated, as i am moving on to other projects, however if modfications/updates are requested, i will happily oblidge.
 
 If you have any questions or problems with the project, please contact the author at <Gomezd20@my.erau.edu>.
